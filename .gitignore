@@ -1,0 +1,12 @@
+.env
+.venv/
+cases.db
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml
+CLAUDE.md
+BUILD_PLAN.md
+tests/
+conftest.py
+scripts/checkpoint_phase*.py

@@ -1,0 +1,17 @@
+# Core UI + graph
+streamlit>=1.36
+langgraph>=0.2.50
+langchain-core>=0.3
+
+# LLM providers (Groq primary, Gemini optional fallback)
+groq>=0.13
+google-generativeai>=0.8
+
+# Data + charts
+pydantic>=2.8
+plotly>=5.22
+pandas>=2.2
+python-dotenv>=1.0
+
+# Tests
+pytest>=8.2
